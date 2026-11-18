@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="Nesostar">
+  <defs>
+    <linearGradient id="badge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#18332d" />
+      <stop offset="1" stop-color="#0b1916" />
+    </linearGradient>
+  </defs>
+  <circle cx="128" cy="128" r="124" fill="url(#badge)" />
+  <circle cx="128" cy="128" r="116" fill="none" stroke="#c9e982" stroke-width="6" />
+  <path d="M78 183V73l100 110V73" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="20" />
+  <path d="m190 56 5 11 11 5-11 5-5 11-5-11-11-5 11-5z" fill="#c9e982" />
+</svg>
