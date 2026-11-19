@@ -4,7 +4,8 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="@yield('description', 'Nesostar designs and builds websites, mobile apps and custom software in Tanzania.')">
-    <link rel="icon" type="image/svg+xml" href="{{ asset('images/nesostar-logo.png') }}?v=3">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ asset('images/nesostar-logo.png') }}?v=4">
+    <link rel="shortcut icon" type="image/png" href="{{ asset('images/nesostar-logo.png') }}?v=4">
     <title>@yield('title', 'Nesostar — Digital ideas, made real')</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
